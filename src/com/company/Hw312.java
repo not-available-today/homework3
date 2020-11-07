@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Hw312 {
     public static void main(String[] args) {
-        long  fib0, fib1;
+        long fib0, fib1;
         int terms, i;
         fib0 = 0;
         fib1 = 1;

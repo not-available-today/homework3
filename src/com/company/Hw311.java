@@ -17,7 +17,7 @@ public class Hw311 {
                 break;
             }
         }
-        if(!isPrime)
+        if (!isPrime)
             System.out.println(number + " is a prime number.");
         else
             System.out.println(number + " is not a prime number.");

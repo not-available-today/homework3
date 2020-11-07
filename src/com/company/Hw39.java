@@ -10,7 +10,7 @@ public class Hw39 {
         userNum = input.nextInt();
 
         for (i = 1; i < userNum; i++) {
-            System.out.println("The number is: " +i+ " and the cube of it is " +Math.pow(i, 3));
+            System.out.println("The number is: " + i + " and the cube of it is " + Math.pow(i, 3));
         }
 
 
